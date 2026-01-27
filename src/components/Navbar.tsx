@@ -54,7 +54,7 @@ const Navbar = () => {
             <p className={`text-xs ${
               isScrolled ? "text-muted-foreground" : "text-primary-foreground/80"
             }`}>
-              Service
+              Services
             </p>
           </div>
         </Link>

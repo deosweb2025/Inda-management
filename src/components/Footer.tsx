@@ -16,7 +16,7 @@ const Footer = () => {
               </div>
               <div>
                 <h3 className="font-serif font-bold text-lg">Inda Management</h3>
-                <p className="text-sm text-primary-foreground/70">Service</p>
+                <p className="text-sm text-primary-foreground/70">Services</p>
               </div>
             </div>
             <p className="text-primary-foreground/80 text-sm leading-relaxed mb-6">
@@ -114,7 +114,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-primary-foreground/70 text-sm text-center md:text-left">
-              © {currentYear} Inda Management Service | All Rights Reserved
+              © {currentYear} Inda Management Services | All Rights Reserved | Developed & Maintained by Digital Exposure Online Services
             </p>
             <p className="text-primary-foreground/50 text-xs">
               Serving Hospitals • IT Companies • Hotels • Corporate Offices • Residential Homes

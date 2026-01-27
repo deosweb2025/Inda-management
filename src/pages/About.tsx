@@ -45,7 +45,7 @@ const About = () => {
                 A Boutique Recruitment & Manpower Agency
               </h2>
               <p className="text-muted-foreground mb-4 leading-relaxed">
-                Inda Management Service is a leading manpower outsourcing and house cleaning 
+                Inda Management Services is a leading manpower outsourcing and house cleaning 
                 service provider based in Kolkata. With over a decade of experience, we have 
                 established ourselves as a trusted name in the industry.
               </p>
