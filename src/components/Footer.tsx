@@ -114,7 +114,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-primary-foreground/70 text-sm text-center md:text-left">
-              © {currentYear} Inda Management Services | All Rights Reserved | Developed & Maintained by <span className="font-medium text-pretty">Digital Exposure Online Services</span>
+              © {currentYear} Inda Management Services | All Rights Reserved | Developed & Maintained by <span className="font-medium text-accent">Digital Exposure Online Services</span>
             </p>
             <p className="text-primary-foreground/50 text-xs">
               Serving Hospitals • IT Companies • Hotels • Corporate Offices • Residential Homes
