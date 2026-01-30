@@ -42,8 +42,9 @@ const Navbar = () => {
       <div className="container mx-auto px-4 flex items-center justify-between">
         {/* Logo */}
         <Link to="/" className="flex items-center gap-3">
-          <div className="w-12 h-12 rounded-xl bg-gradient-primary flex items-center justify-center">
-            <span className="text-primary-foreground font-serif font-bold text-xl">IM</span>
+          <div className="w-12 h-12 rounded-full bg-gradient-primary flex items-center justify-center">
+            <img src="/logo.jpeg" alt="" className="h-12 w-12 rounded-full border-2 border-accent" />
+            {/* <span className="text-primary-foreground font-serif font-bold text-xl">IM</span> */}
           </div>
           <div className="hidden sm:block">
             <h1 className={`font-serif font-bold text-lg leading-tight ${

@@ -11,8 +11,8 @@ const Footer = () => {
           {/* Company Info */}
           <div>
             <div className="flex items-center gap-3 mb-6">
-              <div className="w-12 h-12 rounded-xl bg-gradient-primary flex items-center justify-center">
-                <span className="text-primary-foreground font-serif font-bold text-xl">IM</span>
+              <div className="w-14 h-14 rounded-full bg-gradient-primary flex items-center justify-center">
+                <img src="/logo.jpeg" alt="Inda Management Logo" className="h-14 w-14 rounded-full border-2 border-accent" />
               </div>
               <div>
                 <h3 className="font-serif font-bold text-lg">Inda Management</h3>
